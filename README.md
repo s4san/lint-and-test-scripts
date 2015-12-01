@@ -1,5 +1,7 @@
 # lint-and-test-scripts
 [![Build Status](https://travis-ci.org/s4san/lint-and-test-scripts.svg)](https://travis-ci.org/s4san/lint-and-test-scripts)
+
+
 Gulp tasks to 
   - Lint files in `scripts` and `tests`. 
   - Run `Jasmine` unit tests.
