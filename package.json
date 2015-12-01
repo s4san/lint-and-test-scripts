@@ -1,0 +1,34 @@
+{
+  "name": "lint-and-test-scripts",
+  "version": "1.0.1",
+  "description": "Lint and Test scripts using gulp tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s4san/lint-and-test-scripts.git"
+  },
+  "keywords": [
+    "Lint",
+    "Jasmine",
+    "Unit",
+    "Test"
+  ],
+  "author": "Sandeep Kumar Ranka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s4san/lint-and-test-scripts/issues"
+  },
+  "homepage": "https://github.com/s4san/lint-and-test-scripts#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jasmine": "^2.2.1",
+    "gulp-jshint": "^2.0.0",
+    "jasmine": "^2.3.2",
+    "jasmine-reporters": "^2.0.7",
+    "jshint": "^2.9.1-rc1",
+    "jshint-stylish": "^2.1.0"
+  }
+}
