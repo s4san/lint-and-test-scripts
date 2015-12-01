@@ -2,7 +2,7 @@
   "name": "lint-and-test-scripts",
   "version": "1.0.1",
   "description": "Lint and Test scripts using gulp tasks.",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "test": "gulp"
   },
