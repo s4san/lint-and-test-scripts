@@ -2,8 +2,7 @@
 var gulp = require('gulp'),
     jshint = require('gulp-jshint'),
     jasmine = require('gulp-jasmine'),
-    reporters = require('jasmine-reporters'),
-	name = "Sandeep";
+    reporters = require('jasmine-reporters');
 
 var paths = {
     scripts : 'scripts/**/*.js',
