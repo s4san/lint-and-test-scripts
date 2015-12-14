@@ -124,11 +124,6 @@
     // [4]: http://www.jshint.com/options/
     // ====================================================================
 
-    "predef"        : [         // Extra globals.
-        //"exampleVar",
-        //"anotherCoolGlobal",
-        //"iLoveDouglas"
-    ],
     "indent"        : 4,         // Specify indentation spacing
     "globals"       : {
         "describe"  : false,
