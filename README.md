@@ -6,11 +6,11 @@ Gulp tasks to
   - Lint files in `scripts` and `tests`. 
   - Run `Jasmine` unit tests.
 
-##Installation
+## Installation
 Install `nodejs`. Then run
   - `npm install`.
     
-##Usage
+## Usage
 Run
   - `gulp` to lint scripts and tests and run Jasmine unit tests.
   - `gulp watch` to watch for changes in scripts and tests.
